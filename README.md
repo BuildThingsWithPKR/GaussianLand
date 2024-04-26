@@ -10,4 +10,7 @@
 03. Histogram and Gaussian PDF
 ![image](https://github.com/BuildThingsWithPKR/GaussianLand/assets/157862225/c23e0d5f-f6dd-405b-aad6-90858c51d888)
 
+04. Gaussian Addition:
+
+![image](https://github.com/BuildThingsWithPKR/GaussianLand/assets/157862225/6fe26488-9e13-413d-91ad-5bf339c5b416)
 

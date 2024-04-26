@@ -7,7 +7,7 @@
 02. Signals with Gaussian operations
 ![image](https://github.com/BuildThingsWithPKR/GaussianLand/assets/157862225/28cf4cc9-ef46-489a-b18d-40f865cef0eb)
 
-03. Hstogram and gaussian PDF
+03. Histogram and Gaussian PDF
 ![image](https://github.com/BuildThingsWithPKR/GaussianLand/assets/157862225/c23e0d5f-f6dd-405b-aad6-90858c51d888)
 
 
